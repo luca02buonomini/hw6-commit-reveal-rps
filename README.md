@@ -8,7 +8,7 @@ Neither player can change their move after seeing the opponent's.
 ## Files
 - `bob.py` – server (listens on port 5555)
 - `alice.py` – client
-- `report.pdf` – project report
+- `hw6-report.pdf` – project report
 
 ## Run
 ```bash
